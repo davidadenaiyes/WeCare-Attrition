@@ -18,7 +18,9 @@ This is a Power Bi Project for a Company in the retails industry. **WeCare** is 
 - Identification of patterns and trends to get informed insights and data-driven recommendation.
 
 ## Modelling
+
 Automatically derived relationship are adjusted to remove and replace relationships with required informations. 
+
 ![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Data%20Model.png)
 
 ## Visualization
@@ -32,9 +34,39 @@ This report contains
 
 ## Analysis
 
+### Scatter Plot: 
+Every point on this chart represent each worker in the company and amount they earn. The Chart further gives insight that workers earning between $0 - $5,000 populates high percentage of the attrition. 
+
+![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Scatter%20Plot.png)
+
+
+### Decomposition Tree:
+This chart looked at the gender of workers, marital and age. The insights from this further shows that _Single, male workers between 18years to 22 years_ also pupolates the attrition affection the company. 
+
+![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Decomposition%20Tree.png)
+
+### Key Influencers: 
+This chart dig very dip comparing many variables against eachother so we can truly identify the main reason for this attrition. Insights from this chart shows us that **OverTime** is a major contributor to attrition while we also have **Job Roles** & **Worklife Balance**. 
+
+![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Key%20Influencers.png)
+
+## Recommendation: 
+
+#### 01 - OVERTIME
+I recommend the company to recognize employees who consistently take up overtime through rewards, such as gift cards, bonuses, rewarding pay and extra time off.
+
+#### 02- KEY DEPARTMENTS
+Sales, HR, and Laboratory Technicians, bear the brunt of attrition, accounting for 40%, 24%, and 23% respectively. improving employee satisfaction and retention in these key departments, like providing more training and support, creating a more positive and supportive work environment, and offering competitive compensation and benefits. 
+
+#### 03 - IMBALANCE WORKLIFE
+Implement measures to improve work-life balance, such as flexible scheduling, wellness programs, and clear boundaries between work and personal time.
+
+#### 04 - LOW INCOME $0 - $5,000
+Improving the work-life balance and compensation for younger employees. They should also provide them with opportunities for professional development and advancement, consider providing financial assistance to employees who are struggling to make ends meet.
 
 
 
+![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Decomposition%20Tree.png)
 
 
 

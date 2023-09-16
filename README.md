@@ -1,5 +1,5 @@
 # WeCare Attrition Analysis
-![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Employee%20Attrition.png)
+![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Welcome%20page%20.png)
 
 ## Introduction
 This is a Power Bi Project for a Company in the retails industry. **WeCare** is a large organization with over a thousand employees working in various departments and roles. WeCare is looking to identity factors influencing attrition is their company.
@@ -50,23 +50,26 @@ This chart dig very dip comparing many variables against eachother so we can tru
 
 ![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Key%20Influencers.png)
 
-## Recommendation: 
+## Conclusion and Recommendations:
 
 #### 01 - OVERTIME
-I recommend the company to recognize employees who consistently take up overtime through rewards, such as gift cards, bonuses, rewarding pay and extra time off.
+I recommend the company to recognize employees who consistently take up overtime through rewards, such as gift cards, bonuses, rewarding pay and extra time off. ⌚
 
 #### 02- KEY DEPARTMENTS
-Sales, HR, and Laboratory Technicians, bear the brunt of attrition, accounting for 40%, 24%, and 23% respectively. improving employee satisfaction and retention in these key departments, like providing more training and support, creating a more positive and supportive work environment, and offering competitive compensation and benefits. 
+Sales, HR, and Laboratory Technicians, bear the brunt of attrition, accounting for 40%, 24%, and 23% respectively. improving employee satisfaction and retention in these key departments, like providing more training and support, creating a more positive and supportive work environment, and offering competitive compensation and benefits. 🏦
 
 #### 03 - IMBALANCE WORKLIFE
-Implement measures to improve work-life balance, such as flexible scheduling, wellness programs, and clear boundaries between work and personal time.
+Implement measures to improve work-life balance, such as flexible scheduling, wellness programs, and clear boundaries between work and personal time. ⚖
 
 #### 04 - LOW INCOME $0 - $5,000
-Improving the work-life balance and compensation for younger employees. They should also provide them with opportunities for professional development and advancement, consider providing financial assistance to employees who are struggling to make ends meet.
+Improving the work-life balance and compensation for younger employees. They should also provide them with opportunities for professional development and advancement, consider providing financial assistance to employees who are struggling to make ends meet. 💸
+
+### Thank You 
+For more info you can [Email me](muideenadeakanni@gmail.com)
+For [LinkedIn](https://www.linkedin.com/in/muideenadeakanni/)
 
 
-
-![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Decomposition%20Tree.png)
+![Data Analyst](https://github.com/princeadeakanni/muideen_portfolio/blob/main/Thank%20you%20.png)
 
 
 

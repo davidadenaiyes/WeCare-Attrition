@@ -65,12 +65,11 @@ Implement measures to improve work-life balance, such as flexible scheduling, we
 Improving the work-life balance and compensation for younger employees. They should also provide them with opportunities for professional development and advancement, consider providing financial assistance to employees who are struggling to make ends meet. 💸
 
 ### Thank You 
-For more info you can [Email me](muideenadeakanni@gmail.com)
+For more info you can [Email me](davideadenaiyes@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeadeakanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muideenadeakanni) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davidadenaiyes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidadenaiyes) 
 
 
-![Data Analyst](https://github.com/princeadeakanni/WeCare-Attrition/blob/main/My%20banner.png)
 
 
 
